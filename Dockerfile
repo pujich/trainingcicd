@@ -1,4 +1,4 @@
-FROM python:2.7.5
+FROM python:2
 
 ADD helloworld.py /
 
